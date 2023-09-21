@@ -23,8 +23,8 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 
 | Week   | Day | Lesson 
 |:-----:|:---:|:------:|
-| Week 1| 1   |[Introduction to JAVA](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JavaIntroduction)|
-| Week 1| 2   |[Java basics](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JavaBasics)|
+| Week 1| 1   |[Introduction to JAVA]()|
+| Week 1| 2   |[Java basics]()|
 | Week 1| 3   |[Conditional](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Loops)|
 | Week 1| 4   |[Loops](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Arrays)|
 | Week 1| 5   |[Lab 1](https://github.com/Tuwaiq-Academy-Training/Java-lab1) | 
