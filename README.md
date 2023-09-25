@@ -39,7 +39,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 3| 4   |[Abstraction](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Abstraction)| 
 | Week 3| 5   |[Lab 4](https://github.com/Tuwaiq-Academy-Training/Java-lab4)| 
 | Week 4| 1   |[Polymorphism](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Polymorphism)| 
-| Week 4| 2   |[Projct 2]()|
+| Week 4| 2   |[Projct 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project2)|
 | Week 4| 3   |[Introduction to Spring Boot](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-SpringBoot)| 
 | Week 4| 4   |[Spring Contianer](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Annotations-JSON-Controller)| 
 | Week 4| 5   |[Controller layer - REST - CRUD](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-REST)| 
@@ -55,8 +55,8 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 7| 2   |[Lab 10](https://github.com/Tuwaiq-Academy-Training/Java-lab10)|
 | Week 7| 3   |[Repository layer +Logs](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Repository)|
 | Week 7| 4   |[Lab 11](https://github.com/Tuwaiq-Academy-Training/Java-lab11)|
-| Week 7| 5   |[Capstone 2]()|
-| Week 8| 1-2   |[Capstone 2]()|
+| Week 7| 5   |[Capstone 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone2/blob/main/Capstone2.pdf)|
+| Week 8| 1-2   |[Capstone 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone2/blob/main/Capstone2.pdf)|
 | Week 8| 3   |[Controller Advise ](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Controller-Advise)|
 | Week 8| 4   |[JPA Relation I](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-1)|
 | Week 8| 5   |[JPA Relation II](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-2)|
