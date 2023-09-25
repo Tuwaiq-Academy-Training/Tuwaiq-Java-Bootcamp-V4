@@ -1,4 +1,4 @@
-# Tuwaiq-Java-Bootcamp-V4
+# Java Bootcamp 12-Weeks 
 Hi Everyone, Welcome to the Java bootcamp. This repository contains informations, labs, exercises, projects and lessons specific to your course.
 
 ## Schedule
