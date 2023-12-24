@@ -63,7 +63,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 9| 1   |[JPA Relation III](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-3)|
 | Week 9| 2-5   |[Capstone 3](https://github.com/Tuwaiq-Academy-Training/Java-Capstone-3)|
 | Week 10| 1   |[Spring Security](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Spring-Security)|
-| Week 10| 2   |[Authentication & Authrazation (Lab 12)](https://github.com/Tuwaiq-Academy-Training/Java-Authentication-Authrazation)|
+| Week 10| 2   |[Lab 12](https://github.com/Tuwaiq-Academy-Training/Java-Authentication-Authrazation)|
 | Week 10| 3   |[JUnit testing](https://github.com/Tuwaiq-Academy-Training/Java-JUnit)|
 | Week 10| 4   |[Project 3]()|
 | Week 10| 5   |[Figma Basics](https://github.com/Tuwaiq-Academy-Training/Java-FigmaBasics)|
