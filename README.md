@@ -48,7 +48,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 5| 3   |[Lab 6](https://github.com/Tuwaiq-Academy-Training/Java-lab6)|
 | Week 5| 4   |[Service](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Service)|
 | Week 5| 5   |[Lab 7](https://github.com/Tuwaiq-Academy-Training/Java-lab7)|
-| Week 6| 1-3   |[Capstone 1](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone1/blob/main/Capstone1.pdf)|
+| Week 6| 1-3 |[Capstone 1](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone1/blob/main/Capstone1.pdf)|
 | Week 6| 4   |[Introduction to Database](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Databases-Introduction)|
 | Week 6| 5   |[Lab 9](https://github.com/Tuwaiq-Academy-Training/Java-lab9)|
 | Week 7| 1   |[JPA](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-JPA)|
@@ -56,21 +56,22 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 7| 3   |[Repository layer +Logs](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Repository)|
 | Week 7| 4   |[Lab 11](https://github.com/Tuwaiq-Academy-Training/Java-lab11)|
 | Week 7| 5   |[Capstone 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone2/blob/main/Capstone2.pdf)|
-| Week 8| 1-2   |[Capstone 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone2/blob/main/Capstone2.pdf)|
+| Week 8| 1-2 |[Capstone 2](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone2/blob/main/Capstone2.pdf)|
 | Week 8| 3   |[Controller Advise ](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-Controller-Advise)|
 | Week 8| 4   |[JPA Relation I](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-1)|
 | Week 8| 5   |[JPA Relation II](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-2)|
 | Week 9| 1   |[JPA Relation III](https://github.com/Tuwaiq-Academy-Training/Java-Bootcamp-JPA-Relationship-3)|
-| Week 9| 2-5   |[Capstone 3](https://github.com/Tuwaiq-Academy-Training/Java-Capstone-3)|
-| Week 10| 1   |[Spring Security](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Spring-Security)|
-| Week 10| 2   |[Lab 12](https://github.com/Tuwaiq-Academy-Training/Java-Authentication-Authrazation)|
-| Week 10| 3   |[JUnit testing](https://github.com/Tuwaiq-Academy-Training/Java-JUnit)|
-| Week 10| 4   |[Project 3](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project3)|
-| Week 10| 5   |[Figma Basics](https://github.com/Tuwaiq-Academy-Training/Java-FigmaBasics)|
-| Week 11| 1-5   |[Final project](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone-project)|
-| Week 12| 1-3   |[Final project](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone-project)|
-| Week 12| 4   |[Demo]()|
-| Week 12| 5   |[Deployment](https://github.com/Tuwaiq-Academy-Training/Java-Spring-Deployment)|
+| Week 9| 2-5 |[Capstone 3](https://github.com/Tuwaiq-Academy-Training/Java-Capstone-3)|
+| Week 10| 1  |[Spring Security](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Spring-Security)|
+| Week 10| 2  |[Lab 12](https://github.com/Tuwaiq-Academy-Training/Java-Authentication-Authrazation)|
+| Week 10| 3  |[JUnit testing](https://github.com/Tuwaiq-Academy-Training/Java-JUnit)|
+| Week 10| 4  |[Project 3](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project3)|
+| Week 10| 5  |[Figma Basics](https://github.com/Tuwaiq-Academy-Training/Java-FigmaBasics)|
+| Week 11| 1  |[Deployment](https://github.com/Tuwaiq-Academy-Training/Java-Spring-Deployment)|
+| Week 11| 2-5|[Final project](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone-project)|
+| Week 12| 1-3 |[Final project](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone-project)|
+| Week 12| 4   |[Evaluation]()|
+| Week 12| 5   |[Demo]()|
 
 
 
