@@ -66,7 +66,7 @@ Hi Everyone, Welcome to the Java bootcamp. This repository contains informations
 | Week 10| 2  |[Lab 12](https://github.com/Tuwaiq-Academy-Training/Java-Authentication-Authrazation)|
 | Week 10| 3  |[Project 3](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Project3)| 
 | Week 10| 4  |[JUnit testing](https://github.com/Tuwaiq-Academy-Training/Java-JUnit)|
-| Week 10| 5  |[Deployment](https://github.com/Tuwaiq-Academy-Training/Java-Spring-Deployment)| 
+| Week 10| 5  |[Deployment and Payment](https://github.com/Tuwaiq-Academy-Training/Java-Spring-Deployment)| 
 | Week 11| 1  |[Figma Basics](https://github.com/Tuwaiq-Academy-Training/Java-FigmaBasics)|
 | Week 11| 2-5|[Final project](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone-project)|
 | Week 12| 1-3 |[Final project](https://github.com/Tuwaiq-Academy-Training/JavaBootcamp-Capstone-project)|
